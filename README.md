@@ -3,12 +3,12 @@ This is my first project during my study of Spring 6 + Spring boot 3.
 
 The target is to create an RESTful API connecting to a MySQL database.
 Full CRUD features include:
-1. Read one student
-2. Read all students
-3. Add a student
-4. Update a student
-5. Delete a student
+1. Read one employee
+2. Read all employees
+3. Create a new employee
+4. Update an employee
+5. Delete an employee
 
-MySQL script named "employee-directory.sql" is used to create the original database.
+"employee-directory.sql" is used to create the original database.
 
-This project is grom a udemy course named "Spring Boot 3: Learn Spring 6, Spring REST API, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate" by Chad Darby.
+This project is from a udemy course named "Spring Boot 3: Learn Spring 6, Spring REST API, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate" by Chad Darby.
