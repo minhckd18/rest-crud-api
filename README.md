@@ -10,3 +10,5 @@ Full CRUD features include:
 5. Delete a student
 
 MySQL script named "employee-directory.sql" is used to create the original database.
+
+This project is grom a udemy course named "Spring Boot 3: Learn Spring 6, Spring REST API, Spring MVC, Spring Security, Thymeleaf, JPA & Hibernate" by Chad Darby.
